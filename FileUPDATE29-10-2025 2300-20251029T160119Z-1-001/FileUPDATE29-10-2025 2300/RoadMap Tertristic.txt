@@ -1,0 +1,11 @@
+--UPDATE LOG--
+Change Game over SFX
+Changed Backgroud music for vibin
+
+--RoadMap--
+Additional a Gameplay like
+Meter Bar to rush player to play faster
+Make reduce damage for a BossHealth
+Make effect on screen for making player play harder
+Or anything that make it better than this
+Change all text in game to Bold Pixel(if i can)
