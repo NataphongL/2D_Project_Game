@@ -1,0 +1,15 @@
+Hello and welcome to my project Tertris : REPAIRING CONNECT!
+This game was made by computer language
+
+HTML,CSS,JavaScript
+
+so this game was be a my first 2D Project right now
+
+Control System
+Press P to pause
+Press Right/Left Arrow to move left/right
+Press Spacebar to Instant Drop
+Press down Arrow to speed up Drop
+Press up Arrow to spin a tetromino
+
+Good Luck have fun with tertris:REPAIRING CONNECT!
